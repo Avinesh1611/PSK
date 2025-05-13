@@ -63,4 +63,3 @@ plt.show()
 # Results
 Thus PSK modulation and demodulation of binary data were successfully implemented and verified using waveform plots.
 
-# Hardware experiment output waveform.
